@@ -47,4 +47,4 @@ class SystemUpdateApp(App):
         cap.release()
 
 if __name__ == '__main__':
-    SystemUpdateApp().run()
+    SystemUpdateApp().run() # Teste build foun
